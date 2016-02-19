@@ -1,7 +1,9 @@
 ﻿======Basic Info=============================================================
 File Name: Russian Translation of Subterrain on store page
 Version: 19.02.16 (dd/mm/yy)
-Author: Sergey Garashchuk a.k.a DarelBlacK
+Authors: 
+Sergey Garashchuk a.k.a DarelBlacK 
+Andrei Sukharev a.k.a Shoggoth
 ======Store Page Info========================================================
 Access Date: 21 Jan. 2016
 Site: http://store.steampowered.com/app/340490
@@ -12,7 +14,7 @@ Site: http://store.steampowered.com/app/340490
 Main Game Title: Subterrain (no need to be translated)
 ————————————————————————————————————————————————
 Uncompromising Sci-Fi survival on Mars! Manage the entire colony single-handed! Craft, Research, Explore and Fight against evolving mutants. Vast open world and randomly generated levels to explore! Can you survive long enough to escape the horror?
-(Бескомпромиссное Sci-Fi выживание на Марсе! Управляй всей колонией в одиночку! Создавай, исследуй, разведывай и борись против эволюционирующих мутантов. Огромный открытый мир и случайно сгенерированные уровни для их разведывания! Сможешь ли ты выживать достаточно долго, чтобы вырваться от всего этого ужаса?)
+(Бескомпромиссное Sci-Fi выживание на Марсе! Огромный открытый мир с генератором случайных уровней и эволюционирующими мутантами! Управляй целой колонией, исследуй, создавай, борись за выживание! Сможешь ли ты продержаться до конца?)
 ————————————————————————————————————————————————
 Recommended by Curators (the title is already translated by Steam)
 contents - no need to be translated
@@ -33,7 +35,7 @@ Preview – Indie Game Magazine
 ————————————————————————————————————————————————
 Full controller support (Полная поддержка контроллера)
 We have just implemented full controller support. However, this is very recent feature so it may still needs to be tested and polished, which we are committed to do so.
-(Не так давно нами была реализована полная поддержка контроллера. Однако, это совсем недавняя функция и она всё ещё нуждается в тестировании и отладке, которые мы обязуемся провести.)
+(Не так давно нами была реализована полная поддержка контроллера. Однако, это совсем новая функция и она всё ещё нуждается в тестировании и отладке, которые мы обязуемся провести.)
 ————————————————————————————————————————————————
 Localization mod support (Поддержка изменения локализации)
 Please note that the localization is done by our passionate community. So some language translation can lag behind the English version as we develop the game. Join our community and help us to localize the game to your language!
@@ -60,7 +62,7 @@ Survival (Выживание)
 4. Feel the pain of death due to suffocation.
 (1. Боритесь против потребностей выживания, таких как: Жажда, Голод, Сон и Естественные нужды.
 2. Берегитесь таких состояний как: Заражение, Кровотечение, Переломы, Истощение и Переохлаждение.
-3. Собирайте материалы и проводите исследования предметов, чтобы производить медицину и лекарства.
+3. Собирайте материалы и проводите исследования предметов, чтобы производить медицинские препараты.
 4. Почувствуйте смертельную боль от удушья.)
 --
 Combat (Бой)
@@ -92,10 +94,10 @@ Explore (Разведка)
 4. Restore the colony’s habitability by repairing temperature and oxygen generators. 
 5. Find the clues to escape the horror! Разведывайте случайно сгенерированные подуровни точно так же, как вручную созданные уровни
 (1. Разведывайте случайно сгенерированные подуровни также, как и вручную созданные.
-2. Познайте местность при помощи нелинейного рассказа о сюжете.
+2. Изучайте местность при помощи нелинейного рассказа о сюжете.
 3. Пройдитесь по открытому миру, где только вы решаете, куда вам отправиться дальше.
 4. Восстановите жизнеспособность колонии при помощи починки генераторов кислорода и температуры.
-5. Найдите зацепки, чтобы вырваться от всего этого ужаса!)
+5. Отыщите зацепки, чтобы вырваться из всего этого ужаса!)
 --
 У нас имеется бесплатная демоверсия игры Subterrain! Если вы хотите узнать об игре более детально, пожалуйста, попробуйте поиграть в неё!
 --
@@ -105,4 +107,4 @@ It took longer than it really should have but by 2050, humanity has finally colo
 (Потребовалось немного больше времени чем ожидалось, но к 2050 году человечество наконец колонизировало Марс. Руководителем работ является предприниматель по имени Джефф Мюррей. Вместо того, чтобы жить на поверхности Марса, люди построили свои дома под землей. Город и все его вспомогательные сооружения захоронены глубоко, в безопасности от суровых условий поверхности планеты.)
 
 Dr. West migrated to Mars recently at the personal invitation of Jeff Murray. Dr. West has been working on important research which he had hoped would lead to a cure for the Alzheimer's disease which has afflicted his wife. After an accident in his lab, West has been locked in prison for murder. In a cold, dark cell with no food or water, the survival begins...
-(Доктор Вест недавно прибыл на Марс по личному приглашению Джеффа Мюррея. Он работает над важным исследованием, которое он надеялся приведёт к излечению болезни Альцгеймера, поразившую его жену. После аварии в своей лаборатории, Вест был заключён под стражу за убийство. В холодной, тёмной камере без еды и воды, выживание начинается...)
+(Доктор Вест недавно прибыл на Марс по личному приглашению Джеффа Мюррея. Он работает над важным исследованием, которое, как он надеялся, приведёт к излечению болезни Альцгеймера, поразившую его жену. После аварии в своей лаборатории, Вест был заключён под стражу за убийство. В холодной, тёмной камере без еды и воды, выживание начинается...)
