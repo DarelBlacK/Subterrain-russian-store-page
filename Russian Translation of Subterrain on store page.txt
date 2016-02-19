@@ -1,0 +1,108 @@
+﻿======Basic Info=============================================================
+File Name: Russian Translation of Subterrain on store page
+Version: 18.02.16 (dd/mm/yy)
+Author: Sergey Garashchuk a.k.a DarelBlacK
+======Store Page Info========================================================
+Access Date: 21 Jan. 2016
+Site: http://store.steampowered.com/app/340490
+============================================================================
+
+
+
+Main Game Title: Subterrain (no need to be translated)
+————————————————————————————————————————————————
+Uncompromising Sci-Fi survival on Mars! Manage the entire colony single-handed! Craft, Research, Explore and Fight against evolving mutants. Vast open world and randomly generated levels to explore! Can you survive long enough to escape the horror?
+(Бескомпромиссное Sci-Fi выживание на Марсе! Управляй всей колонией в одиночку! Создавай, исследуй, разведывай и борись против эволюционирующих мутантов. Огромный открытый мир и случайно сгенерированные уровни для их разведывания! Сможешь ли ты выживать достаточно долго, чтобы вырваться от всего этого ужаса?)
+————————————————————————————————————————————————
+Recommended by Curators (the title is already translated by Steam)
+contents - no need to be translated
+————————————————————————————————————————————————
+Recent Updates (the title is already translated by Steam)
+contents - no need to be translated
+————————————————————————————————————————————————
+Reviews (the title is already translated by Steam)
+“Pixellore sets the scene will, and immediately hooked me with its foreboding and mysterious opening.”
+Preview – Indie Game Magazine
+(“Pixellore преподнёс сцену действий достаточно хорошо и меня сразу же охватили чувства предвкушения и мистического открытия.”
+Превью – Indie Game Magazine)
+
+“Even though Subterrain is still early access, the developers have done an amazing job. Unlike many Indie games this one already feels finished. There is always room for improvement, but the game has what it takes to become one of the better Indie survival horror games that are out there. If you’re a horror survival fan, this game needs to have a spot in your collection.”
+8.9 – 3rd Strike
+(Хоть Subterrain и находится в раннем доступе, разработчики проделали потрясающую работу. В отличии от многих инди игр, эта, чувствуется завершённой. Всегда есть возможности для совершенствования, но игра имеет всё необходимое, чтобы стать одной из лучших инди игр в жанре survival horror, которые когда либо выходили в свет. Если вам по нраву survival horror игры - эта игра обязательно должна быть у вас в коллекции."
+8.9 - 3rd Strike)
+————————————————————————————————————————————————
+Full controller support (Полная поддержка контроллера)
+We have just implemented full controller support. However, this is very recent feature so it may still needs to be tested and polished, which we are committed to do so.
+(Не так давно нами была реализована полная поддержка контроллера. Однако, это совсем недавняя функция и она всё еще нуждается в тестировании и отладке, которые мы обязуемся провести.)
+————————————————————————————————————————————————
+Localization mod support (Поддержка изменения локализации)
+Please note that the localization is done by our passionate community. So some language translation can lag behind the English version as we develop the game. Join our community and help us to localize the game to your language!
+(Пожалуйста, примите к сведению, что локализация игры создана нашим горячо любимым сообществом. Таким образом, некоторые переводы могут отставать от английской версии, на которой проводится разработка игры. Присоединяйтесь к нашему сообществу и помогите нам перевести игру на ваш родной язык!)
+
+All the localization files are editable. Contact us if you would like a language set to be officially included in the game.
+(Все файлы локализации свободно редактируемые. Если вы хотите, чтобы локализация была официально добавлена в игру, обязательно свяжитесь с нами.)
+————————————————————————————————————————————————
+Just Updated (the title is already translated by Steam)
+There is free demo version of Subterrain! If you like to see how the game looks and feels , please try it!
+(У нас имеется бесплатная демоверсия игры Subterrain! Если вы хотите узнать об игре более детально, пожалуйста, попробуйте поиграть в неё!)
+————————————————————————————————————————————————
+About This Game (the title is already translated by Steam)
+In Subterrain you fill the shoes of Dr. West, the apparent lone survivor of the underground city of Mars. Do what you must to fight, survive, escape, or otherwise amongst limited resources and relentless enemies. Your worst enemy will be your own carelessness...   The game focuses on four main gameplay mechanics. 
+(В игре Subterrain вы будете играть неким Доктором Вестом, очевидно единственным выжившим в подземном городе на Марсе. Сражайтесь, выживайте, бегите или делайте что посчитаете нужным среди ограниченного количества ресурсов и безжалостных врагов. Вашим злейшим врагом будет ваша собственная невнимательность... Игра фокусируется на четырёх основных игровых механиках.)
+
+Every decision you make is critical as the world does not wait for you.
+(Каждое решение, которое вы совершите может быть критично. Помните, время никого не ждет.)
+--
+Survival (Выживание)
+1. Struggle against survival needs such as Thirst, Hunger, Sleeping and Pissing. 
+2. Beware of conditions like Contamination, Bleeding, Fractures, Exhaustion, and Hypothermia. 
+3. Scavenge and perform research on the items in your inventory to produce medicines and cures. 
+4. Feel the pain of death due to suffocation.
+(1. Боритесь против потребностей выживания, таких как: Жажда, Голод, Сон и Естественные нужды.
+2. Берегитесь таких состояний как: Заражение, Кровотечение, Переломы, Истощение и Переохлаждение.
+3. Собирайте материалы и проводите исследования предметов, чтобы производить медицину и лекарства.
+4. Почувствуйте смертельную боль от удушья.)
+--
+Combat (Бой)
+1. Fight for your life with melee and ranged weapons. 
+2. Customize your ranged weapons with modular leveling system. 
+3. Race against time in this persistent colony infection simulation. 
+4. Mobs will evolve over time, so destroy them while they are in a cocoon state! 
+5. Defend the power generator at all cost in the frenzy do or die battle against invasion force.
+(1. Боритесь за свою жизнь с помощью оружия ближнего и дальнего боя.
+2. Кастомизируйте стрелковое оружие с помощью прогрессирующей модульной системы.
+3. Устраивайте гонку против времени с симуляцией распростанения инфекции по всей колонии Марса.
+4. Мутанты со временем будут эволюционировать, так что уничтожайте их, пока они на стадии кокона!
+5. Яростно защищайте генератор любой ценой или умрите в бою против нашествия мутантов.)
+--
+Craft (Создание предметов)
+1. Produce survival items or your next weapon of mass destruction using 3D printer and Bio combiner. 
+2. Recycle useless junk items into useful crafting block materials. 
+3. Create rare ores and veggies through mining and farming. Refine them to extract rare crafting materials.
+4. Gain access to the advanced items through research. Create your own lightsaber!
+(1. Создавайте предметы выживания или очередное оружие массового поражения, используя 3D принтер и Биосоединитель
+2. Перерабатывайте бесполезный мусор в более важные материалы для создания предметов.
+3. Добывайте редкую руду или выращивайте овощи с помощью шахты или фермы. Обрабатывайте их для получения более редких материалов.
+4. Получите доступ к продвинутым предметам через исследования. Создайте свой лазерный меч!)
+--
+Explore (Разведка)
+1. Explore randomly generated sub levels as well as hand designed levels. 
+2. Experience location based non-linear story telling. 
+3. Wonder through open world and make your decision on where to go next. 
+4. Restore the colony’s habitability by repairing temperature and oxygen generators. 
+5. Find the clues to escape the horror! Разведывайте случайно сгенерированные подуровни точно так же, как вручную созданные уровни
+(1. Разведывайте случайно сгенерированные подуровни также, как и вручную созданные.
+2. Познайте местность при помощи нелинейного рассказа о сюжете.
+3. Пройдитесь по открытому миру, где только вы решаете, куда вам отправиться дальше.
+4. Восстановите жизнеспособность колонии при помощи починки генераторов кислорода и температуры.
+5. Найдите зацепки, чтобы вырваться от всего этого ужаса!)
+--
+У нас имеется бесплатная демоверсия игры Subterrain! Если вы хотите узнать об игре более детально, пожалуйста, попробуйте поиграть в неё!
+--
+Settings (Действие игры)
+
+It took longer than it really should have but by 2050, humanity has finally colonized Mars. The leader of the effort is an entrepreneur named Jeff Murray. Rather than living on the surface of Mars, People have made their homes underground. The city and all its supporting facilities are buried deep down, safe from the inhospitable climate of the surface. 
+(Потребовалось немного больше времени чем ожидалось, но к 2050 году человечество наконец колонизировало Марс. Руководителем работ является предприниматель по имени Джефф Мюррей. Вместо того, чтобы жить на поверхности Марса, люди построили свои дома под землей. Город и все его вспомогательные сооружения захоронены глубоко, в безопасности от суровых условий поверхности планеты.)
+
+Dr. West migrated to Mars recently at the personal invitation of Jeff Murray. Dr. West has been working on important research which he had hoped would lead to a cure for the Alzheimer's disease which has afflicted his wife. After an accident in his lab, West has been locked in prison for murder. In a cold, dark cell with no food or water, the survival begins...
+(Доктор Вест недавно прибыл на Марс по личному приглашению Джеффа Мюррея. Он работает над важным исследованием, которое он надеялся приведёт к излечению болезни Альцгеймера, которая поразила его жену. После аварии в своей лаборатории, Вест был заключён под стражу за убийство. В холодной, тёмной камере без еды и воды, выживание начинается...)
